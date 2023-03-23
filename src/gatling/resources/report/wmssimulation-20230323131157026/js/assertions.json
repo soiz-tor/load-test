@@ -1,0 +1,10 @@
+{
+  "simulation": "WMSSimulation",
+  "simulationId": "wmssimulation-20230323131157026",
+  "start": 1679577118146,
+  "description": "",
+  "scenarios": ["GoodsSimulation"],
+  "assertions": [
+
+  ]
+}
